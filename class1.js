@@ -2,6 +2,16 @@
 // 1. single line  //
 // 2. multi-line /* comment   */
 
+
+
+
+// Define Varialble for addition
+// var a = 54
+// var b = 43
+
+
+
+
 // Variables
 // There are 3 types of variable in JavaScript
 // 1. var
@@ -47,5 +57,9 @@
 // 5. null
 // 6. undefined
 // 7. Boolean
+
+
+
+
 
 
